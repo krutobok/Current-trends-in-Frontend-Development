@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.4a9103a0.css",
-    "main.js": "/static/js/main.a0d7a915.js",
-    "static/media/cat.jpg": "/static/media/cat.eacd90889b2243d53993.jpg",
-    "static/media/computer.jpg": "/static/media/computer.c78fa2114d3dd546326b.jpg",
-    "static/media/cats-website.png": "/static/media/cats-website.0be9658ec9fa6d6c7575.png",
-    "static/media/framework.png": "/static/media/framework.c2e10c09b38ecd9eb774.png",
-    "static/media/css.jpg": "/static/media/css.f7c5ec085de12ce4837c.jpg",
-    "static/media/framework.jpg": "/static/media/framework.7c63fdbc1f1b38eb4c26.jpg",
-    "index.html": "/index.html",
-    "main.4a9103a0.css.map": "/static/css/main.4a9103a0.css.map",
-    "main.a0d7a915.js.map": "/static/js/main.a0d7a915.js.map"
+    "main.css": "/Current-trends-in-Frontend-Development/static/css/main.4a9103a0.css",
+    "main.js": "/Current-trends-in-Frontend-Development/static/js/main.58af8de0.js",
+    "static/media/cat.jpg": "/Current-trends-in-Frontend-Development/static/media/cat.eacd90889b2243d53993.jpg",
+    "static/media/computer.jpg": "/Current-trends-in-Frontend-Development/static/media/computer.c78fa2114d3dd546326b.jpg",
+    "static/media/cats-website.png": "/Current-trends-in-Frontend-Development/static/media/cats-website.0be9658ec9fa6d6c7575.png",
+    "static/media/framework.png": "/Current-trends-in-Frontend-Development/static/media/framework.c2e10c09b38ecd9eb774.png",
+    "static/media/css.jpg": "/Current-trends-in-Frontend-Development/static/media/css.f7c5ec085de12ce4837c.jpg",
+    "static/media/framework.jpg": "/Current-trends-in-Frontend-Development/static/media/framework.7c63fdbc1f1b38eb4c26.jpg",
+    "index.html": "/Current-trends-in-Frontend-Development/index.html",
+    "main.4a9103a0.css.map": "/Current-trends-in-Frontend-Development/static/css/main.4a9103a0.css.map",
+    "main.58af8de0.js.map": "/Current-trends-in-Frontend-Development/static/js/main.58af8de0.js.map"
   },
   "entrypoints": [
     "static/css/main.4a9103a0.css",
-    "static/js/main.a0d7a915.js"
+    "static/js/main.58af8de0.js"
   ]
 }
