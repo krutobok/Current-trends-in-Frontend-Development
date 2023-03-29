@@ -1,0 +1,49 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import 'prismjs/themes/prism-tomorrow.css';
+
+@layer base {
+  ::-webkit-scrollbar {
+    width: 0;
+  }
+  .title {
+    @apply text-6xl text-center;
+  }
+  .parent div {
+    @apply flex  justify-center items-center;
+  }
+  .resize-handle {
+    width: 5px;
+    height: 5px;
+    background-color: gray;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    cursor: nwse-resize;
+  }
+  .subtitle {
+    @apply text-4xl my-10;
+  }
+  .subtitle-small {
+    @apply text-4xl my-5;
+  }
+  .list {
+    list-style: circle;
+    @apply leading-[4rem];
+  }
+  .list-small {
+    list-style: circle;
+    @apply leading-[2.5rem];
+  }
+  .list,
+  .list-small {
+    padding-left: 30px;
+  }
+  /* @container (max-width: 700px) {
+    .container-query {
+      @apply bg-red-500;
+    }
+  } */
+}
